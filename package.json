@@ -1,0 +1,36 @@
+{
+	"name": "Evangelion-Clock-Screensaver",
+	"version": "1.1.2",
+	"description": "A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion.",
+	"author": {
+		"name": "Pascal Wagler",
+		"url": "https://github.com/Wandmalfarbe"
+	},
+	"keywords": [
+		"install",
+		"modules",
+		"package manager",
+		"package.json"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Wandmalfarbe/evangelion-clock-screensaver"
+	},
+	"private": false,
+	"license": "BSD-3-Clause",
+	"devDependencies": {
+		"grunt": "^1.4.1",
+		"grunt-assets-inline": "^1.2.4",
+		"grunt-contrib-clean": "^2.0.0",
+		"grunt-contrib-copy": "^1.0.0",
+		"grunt-contrib-csslint": "^2.0.0",
+		"grunt-contrib-cssmin": "^4.0.0",
+		"grunt-contrib-htmlmin": "^3.1.0",
+		"grunt-contrib-jshint": "^3.1.1",
+		"grunt-contrib-uglify": "^5.0.1",
+		"grunt-eslint": "^24.0.0",
+		"grunt-htmllint": "^0.3.0",
+		"grunt-replace": "^2.0.2",
+		"grunt-svgmin": "^6.0.1"
+	}
+}
